@@ -10,6 +10,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGL_Template", "OpenGL_T
 		{59BDCA13-9B7D-4518-8A58-9FEDC4BE84E8} = {59BDCA13-9B7D-4518-8A58-9FEDC4BE84E8}
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9_Phong_Lighting_Model", "9_Phong_Lighting_Model\9_Phong_Lighting_Model.vcxproj", "{8E950C90-8977-4208-B4F1-E6280815C4BC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{59BDCA13-9B7D-4518-8A58-9FEDC4BE84E8} = {59BDCA13-9B7D-4518-8A58-9FEDC4BE84E8}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -34,6 +39,14 @@ Global
 		{D15F8A60-43F1-4AA1-AF9F-812D0A8CEF5A}.Release|x64.Build.0 = Release|x64
 		{D15F8A60-43F1-4AA1-AF9F-812D0A8CEF5A}.Release|x86.ActiveCfg = Release|Win32
 		{D15F8A60-43F1-4AA1-AF9F-812D0A8CEF5A}.Release|x86.Build.0 = Release|Win32
+		{8E950C90-8977-4208-B4F1-E6280815C4BC}.Debug|x64.ActiveCfg = Debug|x64
+		{8E950C90-8977-4208-B4F1-E6280815C4BC}.Debug|x64.Build.0 = Debug|x64
+		{8E950C90-8977-4208-B4F1-E6280815C4BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{8E950C90-8977-4208-B4F1-E6280815C4BC}.Debug|x86.Build.0 = Debug|Win32
+		{8E950C90-8977-4208-B4F1-E6280815C4BC}.Release|x64.ActiveCfg = Release|x64
+		{8E950C90-8977-4208-B4F1-E6280815C4BC}.Release|x64.Build.0 = Release|x64
+		{8E950C90-8977-4208-B4F1-E6280815C4BC}.Release|x86.ActiveCfg = Release|Win32
+		{8E950C90-8977-4208-B4F1-E6280815C4BC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

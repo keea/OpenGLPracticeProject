@@ -45,9 +45,6 @@
     <ClCompile Include="..\LearnOpenGL\imgui\imgui_widgets.cpp">
       <Filter>소스 파일\imgui</Filter>
     </ClCompile>
-    <ClCompile Include="DrawObject.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="GUI\DebugGUI.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -76,9 +73,6 @@
     </ClInclude>
     <ClInclude Include="..\LearnOpenGL\imgui\imstb_truetype.h">
       <Filter>소스 파일\imgui</Filter>
-    </ClInclude>
-    <ClInclude Include="DrawObject.h">
-      <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="GUI\DebugGUI.h">
       <Filter>헤더 파일</Filter>

@@ -151,7 +151,6 @@
     <ClCompile Include="..\LearnOpenGL\imgui\imgui_widgets.cpp" />
     <ClCompile Include="..\OpenGL\includes\glad\glad.c" />
     <ClCompile Include="GUI\DebugGUI.cpp" />
-    <ClCompile Include="DrawObject.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -164,7 +163,6 @@
     <ClInclude Include="..\LearnOpenGL\imgui\imstb_textedit.h" />
     <ClInclude Include="..\LearnOpenGL\imgui\imstb_truetype.h" />
     <ClInclude Include="GUI\DebugGUI.h" />
-    <ClInclude Include="DrawObject.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="ShaderFiles\basic_lighting.fs" />
